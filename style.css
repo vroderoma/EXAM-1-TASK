@@ -1,0 +1,33 @@
+h1:hover             {
+    color: orange;
+  }
+h2{
+    color: red;
+}
+h2:hover {
+    color: orange;
+}
+p{
+    color:gray
+}
+p:hover{
+    color:black;
+}
+h3:hover             {
+    color: orange;
+  }
+h4{
+    color: red;
+}
+h4:hover {
+    color: orange;
+}
+a:hover{ 
+    color: palevioletred;
+}
+a:active{
+    color: lime;
+  }
+a:visited {
+    color: red;
+  }
